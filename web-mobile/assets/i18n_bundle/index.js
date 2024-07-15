@@ -1,4 +1,8 @@
-System.register("chunks:///_virtual/i18n_bundle",[],(function(){return{execute:function(){}}}));
+System.register("chunks:///_virtual/i18n_bundle", [], function () {
+  return {
+    execute: function () {}
+  };
+});
 
 (function(r) {
   r('virtual:///prerequisite-imports/i18n_bundle', 'chunks:///_virtual/i18n_bundle'); 
