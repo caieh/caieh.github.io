@@ -1,0 +1,297 @@
+{
+    "importBase": "import",
+    "nativeBase": "native",
+    "name": "i18n_bundle",
+    "deps": [],
+    "uuids": [
+        "062b49d42",
+        "141db4ca-431c-4611-9642-1d867b7b5c9e",
+        "141db4ca-431c-4611-9642-1d867b7b5c9e@6c48a",
+        "141db4ca-431c-4611-9642-1d867b7b5c9e@f9941",
+        "3f4fd719-4ba8-40b5-9000-c25ed6c9392c",
+        "3f4fd719-4ba8-40b5-9000-c25ed6c9392c@6c48a",
+        "3f4fd719-4ba8-40b5-9000-c25ed6c9392c@f9941",
+        "5421a74b-25eb-4294-abe0-afaf0858c32f",
+        "5421a74b-25eb-4294-abe0-afaf0858c32f@6c48a",
+        "5421a74b-25eb-4294-abe0-afaf0858c32f@f9941",
+        "6890ba85-d3f3-47e7-a80b-711d83d77220",
+        "6890ba85-d3f3-47e7-a80b-711d83d77220@6c48a",
+        "6890ba85-d3f3-47e7-a80b-711d83d77220@f9941",
+        "711833dd-4390-49f5-834c-23e91a5504a5",
+        "711833dd-4390-49f5-834c-23e91a5504a5@6c48a",
+        "711833dd-4390-49f5-834c-23e91a5504a5@f9941",
+        "835a804a-4134-445d-99c7-9a6726dbf040",
+        "835a804a-4134-445d-99c7-9a6726dbf040@6c48a",
+        "835a804a-4134-445d-99c7-9a6726dbf040@f9941",
+        "ac48592d-513e-4de2-b5d7-ddf419890fe9",
+        "ac48592d-513e-4de2-b5d7-ddf419890fe9@6c48a",
+        "ac48592d-513e-4de2-b5d7-ddf419890fe9@f9941",
+        "b47cbfb6-dde7-4b1d-8815-c3177e4bb9ff",
+        "b47cbfb6-dde7-4b1d-8815-c3177e4bb9ff@6c48a",
+        "b47cbfb6-dde7-4b1d-8815-c3177e4bb9ff@f9941",
+        "c16be922-dbdd-4803-aabf-758062d06bdd",
+        "c16be922-dbdd-4803-aabf-758062d06bdd@6c48a",
+        "c16be922-dbdd-4803-aabf-758062d06bdd@f9941",
+        "c23a1932-72ab-4c24-80b7-e2e8c0bbbc9b",
+        "ca43d1a1-ed02-42aa-aabd-48c39b9db9bd",
+        "ca43d1a1-ed02-42aa-aabd-48c39b9db9bd@6c48a",
+        "ca43d1a1-ed02-42aa-aabd-48c39b9db9bd@f9941",
+        "d1513aa2-1223-42c1-8f25-1f66dbae374b",
+        "d1513aa2-1223-42c1-8f25-1f66dbae374b@6c48a",
+        "d1513aa2-1223-42c1-8f25-1f66dbae374b@f9941",
+        "d985c8a9-cc3e-441a-9215-4968a64f2f68",
+        "d985c8a9-cc3e-441a-9215-4968a64f2f68@6c48a",
+        "d985c8a9-cc3e-441a-9215-4968a64f2f68@f9941",
+        "ed23381d-5b74-4bd2-b40f-d5e564a94166",
+        "ed23381d-5b74-4bd2-b40f-d5e564a94166@6c48a",
+        "ed23381d-5b74-4bd2-b40f-d5e564a94166@f9941",
+        "f1794a22-824a-400e-abff-a1c14d8982a6",
+        "f1794a22-824a-400e-abff-a1c14d8982a6@6c48a",
+        "f1794a22-824a-400e-abff-a1c14d8982a6@f9941"
+    ],
+    "paths": {
+        "c23a1932-72ab-4c24-80b7-e2e8c0bbbc9b": [
+            "i18n_text/Languages",
+            "cc.JsonAsset",
+            1
+        ],
+        "141db4ca-431c-4611-9642-1d867b7b5c9e": [
+            "i18n_images/ar/DOWNLOAD",
+            "cc.ImageAsset",
+            1
+        ],
+        "141db4ca-431c-4611-9642-1d867b7b5c9e@6c48a": [
+            "i18n_images/ar/DOWNLOAD/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "141db4ca-431c-4611-9642-1d867b7b5c9e@f9941": [
+            "i18n_images/ar/DOWNLOAD/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "c16be922-dbdd-4803-aabf-758062d06bdd": [
+            "i18n_images/ar/LOGO",
+            "cc.ImageAsset",
+            1
+        ],
+        "c16be922-dbdd-4803-aabf-758062d06bdd@6c48a": [
+            "i18n_images/ar/LOGO/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "c16be922-dbdd-4803-aabf-758062d06bdd@f9941": [
+            "i18n_images/ar/LOGO/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "d1513aa2-1223-42c1-8f25-1f66dbae374b": [
+            "i18n_images/en/DOWNLOAD",
+            "cc.ImageAsset",
+            1
+        ],
+        "d1513aa2-1223-42c1-8f25-1f66dbae374b@6c48a": [
+            "i18n_images/en/DOWNLOAD/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "d1513aa2-1223-42c1-8f25-1f66dbae374b@f9941": [
+            "i18n_images/en/DOWNLOAD/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "f1794a22-824a-400e-abff-a1c14d8982a6": [
+            "i18n_images/en/LOGO",
+            "cc.ImageAsset",
+            1
+        ],
+        "f1794a22-824a-400e-abff-a1c14d8982a6@6c48a": [
+            "i18n_images/en/LOGO/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "f1794a22-824a-400e-abff-a1c14d8982a6@f9941": [
+            "i18n_images/en/LOGO/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "711833dd-4390-49f5-834c-23e91a5504a5": [
+            "i18n_images/ja/DOWNLOAD",
+            "cc.ImageAsset",
+            1
+        ],
+        "711833dd-4390-49f5-834c-23e91a5504a5@6c48a": [
+            "i18n_images/ja/DOWNLOAD/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "711833dd-4390-49f5-834c-23e91a5504a5@f9941": [
+            "i18n_images/ja/DOWNLOAD/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "d985c8a9-cc3e-441a-9215-4968a64f2f68": [
+            "i18n_images/ja/LOGO",
+            "cc.ImageAsset",
+            1
+        ],
+        "d985c8a9-cc3e-441a-9215-4968a64f2f68@6c48a": [
+            "i18n_images/ja/LOGO/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "d985c8a9-cc3e-441a-9215-4968a64f2f68@f9941": [
+            "i18n_images/ja/LOGO/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "835a804a-4134-445d-99c7-9a6726dbf040": [
+            "i18n_images/ko/DOWNLOAD",
+            "cc.ImageAsset",
+            1
+        ],
+        "835a804a-4134-445d-99c7-9a6726dbf040@6c48a": [
+            "i18n_images/ko/DOWNLOAD/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "835a804a-4134-445d-99c7-9a6726dbf040@f9941": [
+            "i18n_images/ko/DOWNLOAD/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "5421a74b-25eb-4294-abe0-afaf0858c32f": [
+            "i18n_images/ko/LOGO",
+            "cc.ImageAsset",
+            1
+        ],
+        "5421a74b-25eb-4294-abe0-afaf0858c32f@6c48a": [
+            "i18n_images/ko/LOGO/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "5421a74b-25eb-4294-abe0-afaf0858c32f@f9941": [
+            "i18n_images/ko/LOGO/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "ca43d1a1-ed02-42aa-aabd-48c39b9db9bd": [
+            "i18n_images/ru/DOWNLOAD",
+            "cc.ImageAsset",
+            1
+        ],
+        "ca43d1a1-ed02-42aa-aabd-48c39b9db9bd@6c48a": [
+            "i18n_images/ru/DOWNLOAD/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "ca43d1a1-ed02-42aa-aabd-48c39b9db9bd@f9941": [
+            "i18n_images/ru/DOWNLOAD/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "6890ba85-d3f3-47e7-a80b-711d83d77220": [
+            "i18n_images/ru/LOGO",
+            "cc.ImageAsset",
+            1
+        ],
+        "6890ba85-d3f3-47e7-a80b-711d83d77220@6c48a": [
+            "i18n_images/ru/LOGO/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "6890ba85-d3f3-47e7-a80b-711d83d77220@f9941": [
+            "i18n_images/ru/LOGO/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "b47cbfb6-dde7-4b1d-8815-c3177e4bb9ff": [
+            "i18n_images/tw/DOWNLOAD",
+            "cc.ImageAsset",
+            1
+        ],
+        "b47cbfb6-dde7-4b1d-8815-c3177e4bb9ff@6c48a": [
+            "i18n_images/tw/DOWNLOAD/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "b47cbfb6-dde7-4b1d-8815-c3177e4bb9ff@f9941": [
+            "i18n_images/tw/DOWNLOAD/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "ed23381d-5b74-4bd2-b40f-d5e564a94166": [
+            "i18n_images/tw/LOGO",
+            "cc.ImageAsset",
+            1
+        ],
+        "ed23381d-5b74-4bd2-b40f-d5e564a94166@6c48a": [
+            "i18n_images/tw/LOGO/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "ed23381d-5b74-4bd2-b40f-d5e564a94166@f9941": [
+            "i18n_images/tw/LOGO/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "3f4fd719-4ba8-40b5-9000-c25ed6c9392c": [
+            "i18n_images/zh/DOWNLOAD",
+            "cc.ImageAsset",
+            1
+        ],
+        "3f4fd719-4ba8-40b5-9000-c25ed6c9392c@6c48a": [
+            "i18n_images/zh/DOWNLOAD/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "3f4fd719-4ba8-40b5-9000-c25ed6c9392c@f9941": [
+            "i18n_images/zh/DOWNLOAD/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "ac48592d-513e-4de2-b5d7-ddf419890fe9": [
+            "i18n_images/zh/LOGO",
+            "cc.ImageAsset",
+            1
+        ],
+        "ac48592d-513e-4de2-b5d7-ddf419890fe9@6c48a": [
+            "i18n_images/zh/LOGO/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "ac48592d-513e-4de2-b5d7-ddf419890fe9@f9941": [
+            "i18n_images/zh/LOGO/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ]
+    },
+    "scenes": {},
+    "packs": {
+        "062b49d42": [
+            "3f4fd719-4ba8-40b5-9000-c25ed6c9392c@6c48a",
+            "141db4ca-431c-4611-9642-1d867b7b5c9e@6c48a",
+            "835a804a-4134-445d-99c7-9a6726dbf040@6c48a",
+            "5421a74b-25eb-4294-abe0-afaf0858c32f@6c48a",
+            "6890ba85-d3f3-47e7-a80b-711d83d77220@6c48a",
+            "711833dd-4390-49f5-834c-23e91a5504a5@6c48a",
+            "ac48592d-513e-4de2-b5d7-ddf419890fe9@6c48a",
+            "b47cbfb6-dde7-4b1d-8815-c3177e4bb9ff@6c48a",
+            "c16be922-dbdd-4803-aabf-758062d06bdd@6c48a",
+            "ca43d1a1-ed02-42aa-aabd-48c39b9db9bd@6c48a",
+            "d985c8a9-cc3e-441a-9215-4968a64f2f68@6c48a",
+            "d1513aa2-1223-42c1-8f25-1f66dbae374b@6c48a",
+            "ed23381d-5b74-4bd2-b40f-d5e564a94166@6c48a",
+            "f1794a22-824a-400e-abff-a1c14d8982a6@6c48a"
+        ]
+    },
+    "versions": {
+        "import": [],
+        "native": []
+    },
+    "redirect": [],
+    "debug": true,
+    "extensionMap": {},
+    "hasPreloadScript": true,
+    "dependencyRelationships": {}
+}
